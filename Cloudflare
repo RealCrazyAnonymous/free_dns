@@ -1,0 +1,11 @@
+DNS 1 Below
+
+Cloudflare
+
+iPv4: 172.64.36.1
+
+Ipv4: 172.64.36.2
+
+DOH: https://1g07vsk7mz.cloudflare-gateway.com/dns-query
+
+DOT: 1g07vsk7mz.cloudflare-gateway.com
