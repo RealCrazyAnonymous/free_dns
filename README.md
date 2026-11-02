@@ -5,4 +5,4 @@ The DNS is for your devices' protection.
 
 ### New Bat Files are coming soon!
 
-### ***When downloading .bat files, please run them as Administrator.***
+### ***//When downloading .bat files, please run them as Administrator.***
